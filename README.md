@@ -46,10 +46,10 @@
 # Latihan 5
 ![Alt text](https://github.com/Syihabuddinsanni/HTML3-Responsive/blob/master/Ss/5.PNG)
 
-# Latihan 5
+# Latihan 5 .2
 ![Alt text](https://github.com/Syihabuddinsanni/HTML3-Responsive/blob/master/Ss/5.2.PNG)
 
-# Latihan 5
+# Latihan 5.3
 ![Alt text](https://github.com/Syihabuddinsanni/HTML3-Responsive/blob/master/Ss/5.3.PNG)
 
 
