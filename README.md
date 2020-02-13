@@ -46,6 +46,12 @@
 # Latihan 5
 ![Alt text](https://github.com/Syihabuddinsanni/HTML3-Responsive/blob/master/Ss/5.PNG)
 
+# Latihan 5
+![Alt text](https://github.com/Syihabuddinsanni/HTML3-Responsive/blob/master/Ss/5.2.PNG)
+
+# Latihan 5
+![Alt text](https://github.com/Syihabuddinsanni/HTML3-Responsive/blob/master/Ss/5.3.PNG)
+
 
 
 
@@ -56,5 +62,7 @@
 
 # Latihan 6.2
 ![Alt text](https://github.com/Syihabuddinsanni/HTML3-Responsive/blob/master/Ss/6.2.PNG)
+
+
 
 
